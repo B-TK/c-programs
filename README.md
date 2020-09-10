@@ -31,6 +31,11 @@ Index
   </li>
     </ul>
 </ul>
+<ul>Tree
+  <ul>
+  <li>Binary Search Tree</li>
+  </ul>
+</ul>
 <ul>Array
   <ul>
   <li>Queue
